@@ -1,5 +1,5 @@
 # Sitecore.Support.404817
-test
+Item save operation leads to the following error message in the log files of remote instances: "ERROR Exception while handling event Sitecore.Data.Eventing.Remote.SavedItemRemoteEvent".
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.404817/blob/master/LICENSE).  
