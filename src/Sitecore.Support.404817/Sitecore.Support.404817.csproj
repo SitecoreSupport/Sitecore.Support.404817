@@ -72,9 +72,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.404817.config" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
     <Content Include="sitecore\shell\Applications\Buckets\Services\Search.ashx" />
     <None Include="web.config" />
